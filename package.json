@@ -13,20 +13,8 @@
     "pagelet",
     "material-ui"
   ],
-  "author": "University of Cincinnati Portal Team",
+  "author": "Matt Hartman",
   "contributors": [
-    {
-      "name": "Jonathan Horner",
-      "email": "hornerjn@ucmail.uc.edu"
-    },
-    {
-      "name": "Evan Handler",
-      "email": "handleep@ucmail.uc.edu"
-    },
-    {
-      "name": "Alicia Wmasley",
-      "email": "wamsleai@ucmail.uc.edu"
-    },
     {
       "name": "Matthew Hartman",
       "email": "hartmamt@ucmail.uc.edu"
