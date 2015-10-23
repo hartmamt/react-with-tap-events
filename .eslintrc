@@ -1,0 +1,24 @@
+{
+  "extends": "airbnb",
+
+  "globals": {
+    "__USERNAME__": false,
+    "__PASSWORD__": false,
+    "__CHANGE_READ_STATUS_URL__": false,
+    "__CHECKLIST_URL__": false,
+    "__COURSES_URL__": false,
+    "__EVENTS_URL__": false,
+    "__LOV_URL__": false,
+    "__NOTIFICATIONS_URL__": false,
+    "__PAGELET_URL__": false,
+    "__PICTURE_URL__": false,
+    "__PROFILE_URL__": false,
+    "__SCHEDULE_URL__": false,
+    "__SERVICE_INDICATORS_URL__": false,
+    "__SUBJECTS_URL__": false
+  },
+
+  "rules": {
+
+  }
+}
