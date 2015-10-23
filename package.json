@@ -1,18 +1,13 @@
 {
-  "name": "ih-pagelet-navigation-collection",
-  "version": "0.1.26",
-  "description": "Styling PS Nav Collections.",
-  "main": "src/components/index.js",
+  "name": "react-with-tap-events",
+  "version": "0.1.0",
+  "description": "Patch react with tap events",
+  "main": "src/react-patch.js",
   "scripts": {
     "build": "webpack --progress --colors --watch",
     "start": "webpack-dev-server --progress --colors",
     "test": "mocha"
   },
-  "keywords": [
-    "ih",
-    "pagelet",
-    "material-ui"
-  ],
   "author": "Matt Hartman",
   "contributors": [
     {
